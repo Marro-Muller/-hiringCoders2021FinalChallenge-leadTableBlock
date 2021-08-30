@@ -2,9 +2,9 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQHfQr7OKzw3qw/company-background_10000/0/1625601466872?e=2159024400&v=beta&t=FhYCbZr68ojz3lfyYUPV-M4lziID87ji6A-oat_okZ4" title="We Are ACCT" />
 </h1>
 
-<h2 align="center">
-  Bloco tabela de leads VTEX IO <br> Hiring Coders 2021 - grupo 25
-</h2>
+<h3 align="center">
+  Bloco tabela de leads VTEX IO <br> Hiring Coders 2021 <br>  Grupo 25
+</h3
 <p align="center">
   <a href="#introdução">Introdução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="##-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
