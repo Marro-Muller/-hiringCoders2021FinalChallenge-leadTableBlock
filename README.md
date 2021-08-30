@@ -4,7 +4,7 @@
 
 Este bloco customizado pode ser utilizado no sistema do VTEX IO para inserir dados de leads em forma de uma tabelas. Abaixo pode-se ver um exemplo com leads fictícios.
 
-<img alt="exemplo" width="100%" src="assets/exemplo.jpg"></img>
+<img alt="exemplo" width="100%" src="example.png"></img>
 
 
 ## 👨🏻‍💻 Sobre o desafio
