@@ -5,6 +5,7 @@ query GET_LEADS{
             name
             email
             type
+            phoneNumber
         }
     }
 }
