@@ -1,6 +1,6 @@
 {
-  "vendor": "vtex",
-  "name": "countdown",
+  "vendor": "hiringcoders202125",
+  "name": "leadtable",
   "version": "0.0.1",
   "title": "Countdown",
   "description": "Countdown component",
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "vtex.styleguide": "9.x",
-    "vtex.css-handles": "0.x"
+    "vtex.css-handles": "0.x",
+    "hiringcoders202125.leadvtex25": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
