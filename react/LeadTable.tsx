@@ -46,7 +46,6 @@ const LeadTable: StorefrontFunctionComponent<LeadTableProps> = ({ title }) => {
         <TableStyled>
           <TableHead>
             <TableRow>
-              <TableCell align="center">ID</TableCell>
               <TableCell align="center">Nome Completo</TableCell>
               <TableCell align="center">E-mail</TableCell>
               <TableCell align="center">Telefone</TableCell>
@@ -59,7 +58,6 @@ const LeadTable: StorefrontFunctionComponent<LeadTableProps> = ({ title }) => {
               data.leads.body.map((l: leadData, idx: number) => {
                 return (
                   <TableRow>
-                    <TableCell align="center">{l.id}</TableCell>
                     <TableCell align="center">{l.name}</TableCell>
                     <TableCell align="center">{l.email}</TableCell>
                     <TableCell align="center">{l.phoneNumber}</TableCell>
